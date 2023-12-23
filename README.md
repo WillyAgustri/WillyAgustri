@@ -2,32 +2,28 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WillyAgustri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<p align="center">I'm a high school student who lives in the Indonesia. I'm learning how to code. I love making and designing Aplication with Flutter. It's fun to code something that anyone on the Android/Ios can easily see. I also enjoy programming in Dart and Php because they challenge me more. I love it when I can finally solve a difficult problem.</p>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">Favorite Tech</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="25" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="dart logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="kotlin logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="25" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="35" alt="laravel logo"  />
 </div>
 
 ###
@@ -35,6 +31,12 @@
 <br clear="both">
 
 <h2 align="left">Where you can find me :</h2>
+
+###
+
+<br clear="both">
+
+<img align="left" height="120" src="https://media.licdn.com/dms/image/D5603AQHXJHYxZLcDpg/profile-displayphoto-shrink_200_200/0/1703079899037?e=1708560000&v=beta&t=pC7vlkZrIN5UJ3Bzkbh-On8Y3K7NCVbTJ5RHWrclaHw"  />
 
 ###
 
@@ -52,16 +54,26 @@
 
 ###
 
-<img align="right" height="120" src="https://media.licdn.com/dms/image/D5603AQHXJHYxZLcDpg/profile-displayphoto-shrink_200_200/0/1703079899037?e=1708560000&v=beta&t=pC7vlkZrIN5UJ3Bzkbh-On8Y3K7NCVbTJ5RHWrclaHw"  />
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=WillyAgustri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="200" alt="stats graph"  />
+</div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/WillyAgustri/WillyAgustri/output/snake.svg" alt="Snake animation" />
+<p align="left">Hello World!!</p>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=WillyAgustri&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="100" alt="streak graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=WillyAgustri&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WillyAgustri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=false&order=2" height="300" alt="languages graph"  />
 </div>
 
 ###
