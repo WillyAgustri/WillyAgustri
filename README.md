@@ -56,20 +56,14 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WillyAgustri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="200" alt="stats graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=WillyAgustri&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WillyAgustri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="250" alt="languages graph"  />
 </div>
 
 ###
