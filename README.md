@@ -24,7 +24,7 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/Willy Agustri Djabar" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/Willy Agustri Djabar" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/willyagustt" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/WillyAgustri?cardType=level&theme=react&preferLogin=false)](https://git.io/awesome-stats-card)
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=react&preferLogin=false">    <img  alt="WillyAgustri's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/WillyAgustri?cardType=level&theme=react&preferLogin=false" />  </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WillyAgustri&" alt="WillyAgustri" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=WillyAgustri&show_icons=true&locale=en&layout=compact" alt="WillyAgustri" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WillyAgustri" alt="WillyAgustri" /></a></p>
